@@ -1,0 +1,27 @@
+{
+  "name": "lodash-demos",
+  "version": "1.0.0",
+  "description": "This is a repository for demonstrating the use of the Lodash Library",
+  "main": "main.js",
+  "scripts": {
+    "webpack": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/lodash-demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojaray2k/lodash-demos/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/lodash-demos#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.43.0"   
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
