@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.31.0"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "devDependencies": {
+    "webpack-cli": "3.3.2"
+  }
+}
